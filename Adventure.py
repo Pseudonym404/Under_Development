@@ -1,6 +1,6 @@
 def main ():
-#Introduction 
-  print ("It was fun playing with you, maybe we will play \nagain later.")
+#Introduction and ending 
+    print ("It was fun playing with you, maybe we will play \nagain later.\n Romans 5:8 NIV But God demonstrates \nhis own love for us in this:\n While we were still sinners, \nChrist died for us.")
 print ("Hello adventurer, I am Taskmaster!") 
 #Creating name input 
 name = input ("What is your name?")
