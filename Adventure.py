@@ -31,4 +31,11 @@ if reponse == ("1"):
 elif response == ("2"):
   print ("You kept walking and made it home safely.") 
 else: print ("Choose '1 or 2'.")
-main()
+#Test of self-discipline
+response = input("Now that you made it home safely, what do you do?\n Do you do your homework? 2. Or Play outside first? ")
+if response == ("1"):
+  print("Your parents are very proud of you. 2 Timothy 1:7 For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.")
+elif response == ("2"):
+  print("Playing before studying leads to bad grades and dicipline when one fails. Proverbs 13:24 NIV Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.")
+else: print ("Please choose 1 or 2")
+main() 
